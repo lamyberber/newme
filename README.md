@@ -1,2 +1,4 @@
-# newme
-this is my second Repository
+# newMe
+hi there
+this is my second 2 Repository
+ops
